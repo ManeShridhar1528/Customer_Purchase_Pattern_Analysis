@@ -1,17 +1,17 @@
 
-Customer Purchase Pattern Analysis
+## Customer Purchase Pattern Analysis
 
 End-to-End Data Analytics Project | Python • SQL • Power BI
+---
 
-
-Project Overview:
+## Project Overview:
 
 This project presents an end-to-end data analytics workflow to analyze customer purchase behavior and uncover actionable business insights.
 
 The goal is to help businesses understand revenue drivers, customer segments, and growth opportunities using structured data analysis, SQL querying, and interactive dashboards.
 
-
-Business Objective:
+---
+## Business Objective:
 
 Identify key factors driving revenue
 
@@ -21,8 +21,8 @@ Understand customer behavior by age, gender, subscription, and shipping type
 
 Support data-driven decisions for sales, marketing, and customer retention
 
-
-Tools & Technologies Used:
+---
+## Tools & Technologies Used:
 
 Python (Pandas) – Data cleaning, preprocessing, and feature engineering
 
@@ -31,9 +31,10 @@ PostgreSQL – SQL analysis and business-driven queries
 Power BI – Interactive dashboards and visual storytelling
 
 GitHub – Version control and project documentation
+---
 
-
-Project Folder Structure:
+## Project Folder Structure:
+```
 customer-purchase-pattern-analysis/
 │
 ├── python-data-cleaning/
@@ -53,9 +54,10 @@ customer-purchase-pattern-analysis/
 │
 │
 └── README.md
+```
+---
 
-
-Data Cleaning & Preparation (Python):
+## Data Cleaning & Preparation (Python):
 
 Removed duplicate records
 
@@ -67,8 +69,9 @@ Validated data types
 
 Prepared clean dataset for SQL and Power BI analysis
 
+---
 
-Exploratory Data Analysis (EDA):
+## Exploratory Data Analysis (EDA):
 
 Key analysis performed
 
@@ -82,8 +85,8 @@ Impact of shipping type on purchase value
 
 Average order value analysis
 
-
-SQL Analysis (Business Questions):
+---
+## SQL Analysis (Business Questions):
 
 SQL queries were written to answer key business questions such as:
 
@@ -105,8 +108,9 @@ Aggregate functions
 
 Business-focused filtering and ordering
 
+---
 
-Power BI Dashboard:
+## Power BI Dashboard:
 
 An interactive Power BI dashboard was built to visualize insights clearly.
 
@@ -124,8 +128,9 @@ Average order value by shipping type
 
 Interactive slicers (Location, Gender, Size, Season)
 
+---
 
-Key Insights:
+## Key Insights:
 
 Clothing and Accessories are the highest revenue-generating categories
 
@@ -137,8 +142,9 @@ Majority of customers are not subscribed, indicating upsell potential
 
 Customers choosing faster shipping tend to spend more
 
+---
 
-Business Recommendations:
+## Business Recommendations:
 
 Increase subscription adoption through targeted offers
 
@@ -150,15 +156,18 @@ Encourage faster shipping options for higher order value
 
 Use customer segmentation for personalized campaigns
 
+---
 
-Outcome:
+## Outcome:
 
 This project successfully transforms raw customer purchase data into clear, actionable business insights using Python, SQL, and Power BI.
 It demonstrates a complete data analytics lifecycle suitable for real-world business decision-making.
 
+---
 
-Author
-
+## Author
+```
 Shridhar Mane
 Aspiring Data Analyst
+```
 
