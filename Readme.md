@@ -34,32 +34,23 @@ GitHub – Version control and project documentation
 
 
 Project Folder Structure:
-Customer_Purchase_Pattern_Analysis/
+customer-purchase-pattern-analysis/
 │
-├── 1_Raw_Data/
-│   └── customer_purchase_data.csv
+├── python-data-cleaning/
+│   └── customer_data_cleaning.pdf
 │
-├── 2_Python_Data_Cleaning/
-│   ├── data_cleaning.ipynb
-│   └── cleaned_customer_data.csv
+├── sql-analysis/
+│   └── sql_analysis.pdf
 │
-├── 3_SQL_Analysis/
-│   ├── customer_analysis.sql
-│   ├── sql_queries_and_insights.docx
-│   └── sql_queries_and_insights.pdf
+├── powerbi-dashboard/
+│   ├── dashboard_1.png
+│   ├── dashboard_2.png
+│   ├── dashboard_3.png
+│   └── dashboard_4.png
 │
-├── 4_PowerBI_Dashboard/
-│   ├── Customer_Purchase_Pattern_Dashboard.pbix
-│   ├── dashboard_dataset.csv
-│   └── Dashboard_Screenshots/
-│       ├── dashboard_1.png
-│       ├── dashboard_2.png
-│       ├── dashboard_3.png
-│       └── dashboard_4.png
-│       
+├── project-report/
+│   └── customer_proje  
 │
-├── 5_Project_Report/
-│   └── Customer_Purchase_Pattern_Analysis_Report.pdf
 │
 └── README.md
 
