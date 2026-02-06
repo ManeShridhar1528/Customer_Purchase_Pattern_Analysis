@@ -2,8 +2,8 @@
 ## Customer Purchase Pattern Analysis
 
 End-to-End Data Analytics Project | Python • SQL • Power BI
----
 
+---
 ## Project Overview:
 
 This project presents an end-to-end data analytics workflow to analyze customer purchase behavior and uncover actionable business insights.
@@ -31,8 +31,8 @@ PostgreSQL – SQL analysis and business-driven queries
 Power BI – Interactive dashboards and visual storytelling
 
 GitHub – Version control and project documentation
----
 
+---
 ## Project Folder Structure:
 ```
 customer-purchase-pattern-analysis/
@@ -169,5 +169,6 @@ It demonstrates a complete data analytics lifecycle suitable for real-world busi
 ```
 Shridhar Mane
 Aspiring Data Analyst
+
 ```
 
